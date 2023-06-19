@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #223ea5;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+form{
+    background-color: #fff;
+    padding: 50px;
+    
+    /* display: flex;
+    flex-direction: column;
+    row-gap: 8px; */
+}
+h2{
+    text-align: center;
+    margin-bottom: 6px;
+    font-size: 32px;
+}
+input{
+    padding: 6px 4px;
+    font-size: 19px;
+    margin-bottom: 14px;
+}
+input[type="submit"]{
+    width: 100%;
+}
+p{
+    margin-bottom: 6px;
+}
+.errorText{
+    color: red;
+}
