@@ -23,9 +23,9 @@ This is a Form where user have to fill the form according to the guidelines
 
 ![Image](./Images/img.png)
 
-# [Live Link](image-corousel.netlify.app)
+# [Live Link](https://form-validation-14.netlify.app/)
 
-# [Source Code](https://github.com/RaviTesla1/Image-Carousel)
+# [Source Code](https://github.com/RaviTesla1/Form-Validation)
 
 ## 🤔 What i have learnt By working on this project
 
