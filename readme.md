@@ -29,12 +29,11 @@ This is a Form where user have to fill the form according to the guidelines
 
 ## 🤔 What i have learnt By working on this project
 
-1. How to use position absolute .
-2. How to use tranlate function to create animations .
+1. How to take input from user and validate it .
 
 ## 😌 Honest Time to finish the project
 
-I have taken nearly 2 hours to complete this project .
+I have taken nearly 1 hour to complete this project .
 
 ## 👀 Feedback
 
